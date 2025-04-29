@@ -1,0 +1,10 @@
+/* CSS del index */
+
+#calculadora {
+    width: 40rem;
+    height: 100rem;
+    border: 1px solid black;
+
+    margin: auto;
+    margin-top: 10rem;
+}
