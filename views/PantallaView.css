@@ -1,8 +1,8 @@
 .pantalla {
     height: 18rem;
-    background-color: gray;
+    background-color: rgb(255, 153, 0);
     padding: 1rem;
-
+border-bottom: 2px solid black;
     font-size: 5rem;
     font-weight: 600;
 
